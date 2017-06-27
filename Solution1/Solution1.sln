@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{60FC720E-9E95-4741-825A-50C2C07BDE22}"
+	ProjectSection(SolutionItems) = preProject
+		F:\图片\b3b8a0b6e8291459191ee1e5f49e2856c47554cb.jpg = F:\图片\b3b8a0b6e8291459191ee1e5f49e2856c47554cb.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
